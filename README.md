@@ -1,6 +1,3 @@
-Of course\! Here is a comprehensive `README.md` file for your GitHub repository. It explains what the project does, its key security features, and provides clear, step-by-step instructions for setup and deployment.
-
------
 
 # Secure Vault 🔐
 
