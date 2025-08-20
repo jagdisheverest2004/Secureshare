@@ -113,7 +113,7 @@ if menu == "Register":
 
     if st.button("Create"):
         checks = check_password_requirements(pwd)
-        if not all(checks.values()):
+        if not all(checks.values()):    
             st.error("❌ Please meet all password requirements.")
         elif not email or not re.match(r"[^@]+@[^@]+\.[^@]+", email):
             st.error("❌ Enter a valid email.")
